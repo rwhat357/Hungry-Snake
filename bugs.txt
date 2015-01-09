@@ -1,0 +1,1 @@
+start with right arrow instead of space bar on begin game
